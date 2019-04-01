@@ -1,0 +1,6 @@
+c:\users\sistemas\documents\visual studio 2015\Projects\HolaMundoSocket\HolaMundoSocket\bin\Debug\HolaMundoSocket.exe.config
+c:\users\sistemas\documents\visual studio 2015\Projects\HolaMundoSocket\HolaMundoSocket\bin\Debug\HolaMundoSocket.exe
+c:\users\sistemas\documents\visual studio 2015\Projects\HolaMundoSocket\HolaMundoSocket\bin\Debug\HolaMundoSocket.pdb
+c:\users\sistemas\documents\visual studio 2015\Projects\HolaMundoSocket\HolaMundoSocket\obj\Debug\HolaMundoSocket.csprojResolveAssemblyReference.cache
+c:\users\sistemas\documents\visual studio 2015\Projects\HolaMundoSocket\HolaMundoSocket\obj\Debug\HolaMundoSocket.exe
+c:\users\sistemas\documents\visual studio 2015\Projects\HolaMundoSocket\HolaMundoSocket\obj\Debug\HolaMundoSocket.pdb
